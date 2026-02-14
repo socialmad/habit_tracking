@@ -13,10 +13,10 @@ A premium, Google-quality Habit Tracker application built with Flutter and Supab
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/splash.png" width="30%" />
   <img src="screenshots/onboarding_1.png" width="30%" />
   <img src="screenshots/onboarding_2.png" width="30%" />
 </p>
+
 
 <p align="center">
   <img src="screenshots/onboarding_3.png" width="30%" />
@@ -107,12 +107,6 @@ The project follows valid **Clean Architecture** principles to ensure scalabilit
 *   Supabase Account
 
 ### Installation
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/yourusername/habit-tracker.git
-    cd habit_tracker
-    ```
 
 2.  **Install Dependencies**
     ```bash
